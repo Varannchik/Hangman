@@ -1,0 +1,43 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.game{
+    width: 80%;
+    margin-top: 30px;
+}
+h1{
+    color: green;
+}
+h3{
+    color: brown;
+}
+.center{
+    text-align: center;
+}
+.button{
+    color: #fff;
+    background: lightseagreen;
+    border-radius: 5px;
+    min-width: 30px;
+    min-height: 30px;
+    line-height: 15px;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    &:hover{
+        background: blue;
+    }
+}
+img{
+    max-width: 300px;
+}
+.w-400{
+    max-width: 480px;
+    margin: 0 auto;
+}
+.res{
+    background: orangered;
+}
